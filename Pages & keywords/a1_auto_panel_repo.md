@@ -25,13 +25,43 @@ This document serves as the master data source for the A1 Auto Panel project. It
 
 ---
 
-## 2. Google My Business (GMB) Link
+## 2. Campaign Target Assignments
+
+### Web 2.0 Targets (4 Properties)
+- **1st Web 2.0:**
+  - `https://a1autopanelandpaint.co.nz/services/chassis-alignment-in-south-auckland/`
+  - `https://a1autopanelandpaint.co.nz/services/rust-repairs-in-south-auckland/`
+- **2nd Web 2.0:**
+  - `https://a1autopanelandpaint.co.nz/services/collision-repairs-in-south-auckland/`
+  - `https://a1autopanelandpaint.co.nz/services/car-parts-in-south-auckland/`
+- **3rd Web 2.0:**
+  - `https://a1autopanelandpaint.co.nz/services/bumper-repairs-in-south-auckland/`
+  - `https://a1autopanelandpaint.co.nz/services/dent-removal-in-south-auckland/`
+- **4th Web 2.0:**
+  - `https://a1autopanelandpaint.co.nz/services/chassis-alignment-in-south-auckland/`
+  - `https://a1autopanelandpaint.co.nz/services/mag-wheel-repairs-in-south-auckland/`
+
+### Guest Post Targets (4 Posts)
+- **1st Guest Post:** `https://a1autopanelandpaint.co.nz/services/chassis-alignment-in-south-auckland/`
+- **2nd Guest Post:** `https://a1autopanelandpaint.co.nz/services/collision-repairs-in-south-auckland/`
+- **3rd Guest Post:** `https://a1autopanelandpaint.co.nz/services/bumper-repairs-in-south-auckland/`
+- **4th Guest Post:** `https://a1autopanelandpaint.co.nz/services/chassis-alignment-in-south-auckland/`
+
+### Article Submission Targets (4 Articles)
+- **1st Article:** `https://a1autopanelandpaint.co.nz/services/rust-repairs-in-south-auckland/`
+- **2nd Article:** `https://a1autopanelandpaint.co.nz/services/car-parts-in-south-auckland/`
+- **3rd Article:** `https://a1autopanelandpaint.co.nz/services/dent-removal-in-south-auckland/`
+- **4th Article:** `https://a1autopanelandpaint.co.nz/services/mag-wheel-repairs-in-south-auckland/`
+
+---
+
+## 3. Google My Business (GMB) Link
 
 **GMB URL:** [https://www.google.com/maps?cid=13978574433048891785](https://www.google.com/maps?cid=13978574433048891785)
 
 ---
 
-## 3. Approved Profile Links
+## 4. Approved Profile Links
 
 Use these profile URLs as supporting, natural contextual links where appropriate:
 
@@ -61,7 +91,7 @@ Use these profile URLs as supporting, natural contextual links where appropriate
 
 ---
 
-## 4. Approved Business Listings
+## 5. Approved Business Listings
 
 Use these business listing URLs as supporting links or citations:
 
