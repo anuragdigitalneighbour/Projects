@@ -1,3 +1,5 @@
+﻿# Web 2.0 1
+
 # Hidden Vehicle Damage: Why Alignment and Rust Issues Often Go Unnoticed
 
 When a vehicle is involved in a collision, the most obvious damage is usually cosmetic. Scratched paintwork, dented panels, and broken lights are easy to spot. However, the true danger often lies beneath the surface. Structural issues and early signs of corrosion can remain hidden for months or even years. If you do not address these problems quickly, they can compromise the safety and longevity of your vehicle.
@@ -43,6 +45,8 @@ It is also helpful to review their online presence and [community profiles](http
 Hidden vehicle damage is a serious issue that every car owner must understand. Whether it is a twisted chassis from a recent accident or a patch of rust developing underneath the vehicle, these problems will not resolve themselves. They require immediate, professional attention. By addressing structural alignment and corrosion early, you can protect the value of your vehicle and ensure it remains safe for you and your family.
 
 ---
+
+# Web 2.0 2
 
 # The Anatomy of a Vehicle Repair: From Sourcing Parts to Final Polish
 
@@ -92,6 +96,8 @@ The anatomy of a vehicle repair is complex and highly specialised. From sourcing
 
 ---
 
+# Web 2.0 3
+
 # Why You Must Not Ignore Minor Vehicle Damage
 
 It is easy to dismiss a small scratch or a shallow dent as a minor inconvenience. When you are busy, a scuffed bumper might not seem worth the time or money to fix. Many drivers choose to ignore these cosmetic issues, believing they only affect the appearance of the car. However, leaving small amounts of damage untreated can lead to significant problems in the future.
@@ -139,6 +145,8 @@ Additionally, checking professional [business directories](https://www.zipleaf.c
 Minor vehicle damage is rarely as harmless as it looks. From compromised safety sensors to the silent spread of rust, small issues can quickly escalate into expensive repairs. By addressing scratches, dents, and bumper damage as soon as they happen, you protect your investment and ensure your vehicle remains safe on the road.
 
 ---
+
+# Web 2.0 4
 
 # Pothole Damage: The True Impact on Your Wheels and Suspension
 

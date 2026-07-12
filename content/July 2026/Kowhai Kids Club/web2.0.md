@@ -1,3 +1,5 @@
+﻿# Web 2.0 1
+
 # The Benefits of Structured Childcare Outside School Hours
 
 Balancing work commitments with family life is a significant challenge for modern parents. When the school bell rings at three o'clock, many parents are still in the middle of their working day. Finding a safe and reliable environment for children during these gap hours is essential. Structured out-of-school care offers peace of mind for parents and provides valuable developmental opportunities for children. 
@@ -39,6 +41,8 @@ For families seeking reliable information and community updates regarding childc
 Structured out-of-school care is a necessity for many modern families. From providing engaging afternoon activities to offering comprehensive holiday schedules, these programmes support both children and parents. By focusing on safety, social development, and educational support, quality childcare services ensure that children thrive outside the classroom.
 
 ---
+
+# Web 2.0 2
 
 # Preparing for the Day: The Importance of Morning Routines
 
@@ -82,6 +86,8 @@ A positive morning routine is essential for a successful school day. By utilisin
 
 ---
 
+# Web 2.0 3
+
 # Keeping Children Active and Engaged All Year Round
 
 Maintaining a consistent routine for children is vital for their overall well-being. During the school term, the daily schedule provides structure and predictability. However, managing this routine becomes complicated when parents have early work commitments or when the school holidays arrive. 
@@ -123,6 +129,8 @@ Many providers also share their ethos and community involvement through [profess
 Keeping children engaged outside of school hours requires access to quality childcare services. From the early morning routine to the long weeks of the school holidays, professional programmes provide the structure and stimulation that children need. By offering safe, fun, and educational environments, these services support the development of confident and capable young people while easing the burden on working families.
 
 ---
+
+# Web 2.0 4
 
 # Navigating Childcare Logistics for Working Families
 

@@ -1,3 +1,5 @@
+﻿# Article 1
+
 # The Impact of Morning Routines on Academic Success
 
 The way a child starts their morning significantly influences how they perform throughout the rest of the day. For working parents, managing the early hours before school is often a delicate balancing act. Ensuring that children are fed, dressed, and safely transported to school requires meticulous planning. When this routine fails, the resulting stress follows the child right into the classroom.
@@ -34,6 +36,8 @@ It is essential to recognise that early morning care is a critical component of 
 
 ---
 
+# Article 2
+
 # Removing the Financial Barriers to Quality Childcare
 
 Every child deserves access to a safe and enriching environment outside of school hours. However, the reality for many families is that professional childcare represents a significant financial burden. The cost of daily supervision can consume a large portion of a household income, leaving parents stressed and, in some cases, unable to maintain full-time employment.
@@ -65,6 +69,8 @@ Accessible childcare is not just a family issue; it is a community issue. When f
 For those interested in community welfare and family support structures, engaging with [community advocacy profiles](https://www.finnishwomenorg.com/kowhaikidsclub) offers valuable insights into how these subsidies impact local neighbourhoods. Providing equitable access to [Out Of School Care](https://kowhaikidsclub.co.nz/) ensures that every child has the opportunity to learn and grow in a supportive environment, regardless of their family's financial situation.
 
 ---
+
+# Article 3
 
 # Keeping Children Active and Healthy During the School Holidays
 
@@ -101,6 +107,8 @@ For further information on child wellness and holiday planning, parents can cons
 Providing structured activities during the holidays is an extension of the care children need throughout the year. Just as [Before And After School Care Near Me](https://kowhaikidsclub.co.nz/) supports children during the term, holiday programmes provide essential continuity. By prioritising physical activity and social engagement, we can ensure children return to school healthy, happy, and ready to learn.
 
 ---
+
+# Article 4
 
 # The Social Benefits of Structured Afternoon Care
 

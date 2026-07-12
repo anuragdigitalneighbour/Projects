@@ -1,3 +1,5 @@
+﻿# Guest Post 1
+
 # The Educational Impact of Quality Afternoon Care
 
 For many children, learning does not stop when the final school bell rings. The hours between the end of the school day and dinner time are crucial for cognitive and social development. While some parents view afternoon care simply as a babysitting service, educational experts recognise it as a valuable extension of the classroom. 
@@ -35,6 +37,8 @@ Recognising the educational value of afternoon care transforms how we view these
 For educators and parents interested in further discussions on child development and learning strategies, you can explore the author's [professional learning profile](https://wallhaven.cc/user/kowhaikidsclub). Providing children with a supportive, enriching environment after school ensures they have the best possible foundation for a successful future.
 
 ---
+
+# Guest Post 2
 
 # Why Holiday Programmes are Essential for Child Development
 
@@ -74,6 +78,8 @@ For parents seeking more information on child development and community support,
 
 ---
 
+# Guest Post 3
+
 # The Secret to a Stress-Free School Morning
 
 The period between waking up and leaving for school is often the most stressful part of the day for families. The pressure to dress, eat, pack bags, and commute on time can create a tense atmosphere. This morning rush leaves parents exhausted and children feeling anxious before they even reach the classroom. 
@@ -111,6 +117,8 @@ Creating a peaceful morning routine requires planning and a willingness to use a
 To explore further strategies for family organisation and childhood development, you can review the author's [professional engagement profile](https://gesoten.com/profile/detail/12648123). By taking control of the morning routine, families can ensure every day starts on a positive and productive note.
 
 ---
+
+# Guest Post 4
 
 # Navigating the Costs of Quality Childcare
 
