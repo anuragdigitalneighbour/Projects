@@ -157,9 +157,11 @@ Do not:
 
 ## 2.8 Local Content & Link Context
 
+*(Note: GMB, Profile, and Business Listing links are strictly reserved for Web 2.0 properties and should NOT be used in Guest Posts or Article Submissions.)*
+
 - **Geographical Content:** The entire content must make geographical sense. Actively weave relevant local details and references to the target location throughout the body of the article, rather than just forcing it into one sentence.
-- **GMB Links:** When adding a Google My Business (GMB) link, it must be explicitly attached to a local keyword (a keyword that contains a geographic location).
-- **Profile & Business Listing Links:** When adding profile and business listing links, the surrounding content must naturally discuss the specific location to provide proper context, making these citations feel like a natural part of a localized article.
+- **GMB Links:** When adding a Google My Business (GMB) link (Web 2.0 only), it must be explicitly attached to a local keyword (a keyword that contains a geographic location).
+- **Profile & Business Listing Links:** When adding profile and business listing links (Web 2.0 only), the surrounding content must naturally discuss the specific location to provide proper context, making these citations feel like a natural part of a localized article.
 
 ---
 
@@ -487,7 +489,7 @@ Publish an informative, broadly useful article that naturally supports the selec
 - broader educational angle
 - **Target Pages:** 1 target page per article (mapped to its keyword)
 - **Internal Linking:** Must include internal linking to the 1 target page and exactly 1 internal link to the homepage (with its keyword). Do not include internal links to any other pages.
-- **External/Supporting Linking:** Must include exactly 1 Profile link and exactly 1 Business Listing link. The content surrounding these links must naturally discuss relevant locations. (If a GMB link is provided, attach it to a local keyword.)
+- **External/Supporting Linking:** Include authoritative external references if helpful for context, but do NOT include Profile links, Business Listing links, or GMB links. These are reserved exclusively for Web 2.0 properties.
 - neutral tone
 - clear title and subheadings
 - minimal brand promotion
@@ -531,7 +533,7 @@ Create editorial-quality content for a third-party website and earn a relevant c
 - credible external references where needed
 - **Target Pages:** 1 target page per guest post (mapped to its keyword)
 - **Internal Linking:** Must include internal linking to the 1 target page and exactly 1 internal link to the homepage (with its keyword). Do not include internal links to any other pages.
-- **External/Supporting Linking:** Must include exactly 1 Profile link and exactly 1 Business Listing link (e.g., for author bio or supporting context). The content surrounding these links must naturally discuss relevant locations. (If a GMB link is provided, attach it to a local keyword.)
+- **External/Supporting Linking:** Include authoritative external references if helpful for context, but do NOT include Profile links, Business Listing links, or GMB links. These are reserved exclusively for Web 2.0 properties.
 
 ### Suitable Angles
 
