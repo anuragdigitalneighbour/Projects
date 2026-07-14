@@ -155,10 +155,11 @@ Do not:
 
 ---
 
-## 2.8 Local Link Context
+## 2.8 Local Content & Link Context
 
-- **GMB Links:** When adding a Google My Business (GMB) link, it must be attached to a local keyword (a keyword that explicitly includes a geographic location).
-- **Profile & Business Listing Links:** When adding profile and business listing links, ensure the surrounding content naturally discusses locations relevant to the target keywords. The content must make geographical sense and actively incorporate relevant locations to provide proper context for these links.
+- **Geographical Content:** The entire content must make geographical sense. Actively weave relevant local details and references to the target location throughout the body of the article, rather than just forcing it into one sentence.
+- **GMB Links:** When adding a Google My Business (GMB) link, it must be explicitly attached to a local keyword (a keyword that contains a geographic location).
+- **Profile & Business Listing Links:** When adding profile and business listing links, the surrounding content must naturally discuss the specific location to provide proper context, making these citations feel like a natural part of a localized article.
 
 ---
 
