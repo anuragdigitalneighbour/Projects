@@ -155,7 +155,14 @@ Do not:
 
 ---
 
-## 2.8 Unique Content Per Placement
+## 2.8 Local Link Context
+
+- **GMB Links:** When adding a Google My Business (GMB) link, it must be attached to a local keyword (a keyword that explicitly includes a geographic location).
+- **Profile & Business Listing Links:** When adding profile and business listing links, ensure the surrounding content naturally discusses locations relevant to the target keywords. The content must make geographical sense and actively incorporate relevant locations to provide proper context for these links.
+
+---
+
+## 2.9 Unique Content Per Placement
 
 Never create one article and lightly spin it for multiple placements.
 
@@ -436,7 +443,7 @@ Build a useful supporting content asset around a tightly related topic.
 - educational or problem-solving angle
 - **Target Pages:** 2 service target pages per Web 2.0 (each mapped 1-to-1 with its keyword)
 - **Internal Linking:** Must include internal links to both target pages and exactly 1 internal link to the homepage
-- **External/Supporting Linking:** Must include 1 GMB (Google My Business) link, exactly 1 Profile link, and exactly 1 Business Listing link
+- **External/Supporting Linking:** Must include 1 GMB (Google My Business) link (attached to a local keyword), exactly 1 Profile link, and exactly 1 Business Listing link. The content surrounding profile and business listings must naturally discuss relevant locations.
 - **Inputs:** The user will provide all required inputs for targets, keywords, GMB, and backlinks
 - self-contained article
 - not written like a direct advertisement
@@ -479,7 +486,7 @@ Publish an informative, broadly useful article that naturally supports the selec
 - broader educational angle
 - **Target Pages:** 1 target page per article (mapped to its keyword)
 - **Internal Linking:** Must include internal linking to the 1 target page and exactly 1 internal link to the homepage (with its keyword). Do not include internal links to any other pages.
-- **External/Supporting Linking:** Must include exactly 1 Profile link and exactly 1 Business Listing link
+- **External/Supporting Linking:** Must include exactly 1 Profile link and exactly 1 Business Listing link. The content surrounding these links must naturally discuss relevant locations. (If a GMB link is provided, attach it to a local keyword.)
 - neutral tone
 - clear title and subheadings
 - minimal brand promotion
@@ -523,7 +530,7 @@ Create editorial-quality content for a third-party website and earn a relevant c
 - credible external references where needed
 - **Target Pages:** 1 target page per guest post (mapped to its keyword)
 - **Internal Linking:** Must include internal linking to the 1 target page and exactly 1 internal link to the homepage (with its keyword). Do not include internal links to any other pages.
-- **External/Supporting Linking:** Must include exactly 1 Profile link and exactly 1 Business Listing link (e.g., for author bio or supporting context)
+- **External/Supporting Linking:** Must include exactly 1 Profile link and exactly 1 Business Listing link (e.g., for author bio or supporting context). The content surrounding these links must naturally discuss relevant locations. (If a GMB link is provided, attach it to a local keyword.)
 
 ### Suitable Angles
 
