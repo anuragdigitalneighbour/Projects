@@ -8,7 +8,7 @@ This document serves as the master data source for the A1 Auto Panel project. It
 
 | Target URL | Approved Keywords |
 | :--- | :--- |
-| `https://a1autopanelandpaint.co.nz/` | Panel Beaters, Welding Car Panels, Panel Beaters North Shore, Car Repaint |
+| `https://a1autopanelandpaint.co.nz/` | Panel Beaters, Welding Car Panels, South Auckland Panel Beaters, Car Repaint |
 | `https://a1autopanelandpaint.co.nz/services/` | Best Car Painting And Panel Beaters In Auckland |
 | `https://a1autopanelandpaint.co.nz/services/body-kit-installation-in-south-auckland/` | Car Body Kit Installation South Auckland, Best Front Bumper Replacement South Auckland, Best Rear Bumper Replacement South Auckland, Side Skirts Installation South Auckland |
 | `https://a1autopanelandpaint.co.nz/services/bumper-repairs-in-south-auckland/` | Bumper Repair South Auckland, Plastic Bumper Repair South Auckland, Bumper Reshaping South Auckland |
