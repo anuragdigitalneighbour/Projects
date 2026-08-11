@@ -29,29 +29,29 @@ This document serves as the master data source for the A1 Auto Panel project. It
 
 ### Web 2.0 Targets (4 Properties)
 - **1st Web 2.0:**
-  - `https://a1autopanelandpaint.co.nz/services/chassis-alignment-in-south-auckland/`
-  - `https://a1autopanelandpaint.co.nz/services/rust-repairs-in-south-auckland/`
-- **2nd Web 2.0:**
-  - `https://a1autopanelandpaint.co.nz/services/collision-repairs-in-south-auckland/`
-  - `https://a1autopanelandpaint.co.nz/services/car-parts-in-south-auckland/`
-- **3rd Web 2.0:**
+  - `https://a1autopanelandpaint.co.nz/services/body-kit-installation-in-south-auckland/`
   - `https://a1autopanelandpaint.co.nz/services/bumper-repairs-in-south-auckland/`
-  - `https://a1autopanelandpaint.co.nz/services/dent-removal-in-south-auckland/`
-- **4th Web 2.0:**
+- **2nd Web 2.0:**
   - `https://a1autopanelandpaint.co.nz/services/chassis-alignment-in-south-auckland/`
+  - `https://a1autopanelandpaint.co.nz/services/dent-removal-in-south-auckland/`
+- **3rd Web 2.0:**
   - `https://a1autopanelandpaint.co.nz/services/mag-wheel-repairs-in-south-auckland/`
+  - `https://a1autopanelandpaint.co.nz/services/panel-beaters-in-south-auckland/`
+- **4th Web 2.0:**
+  - `https://a1autopanelandpaint.co.nz/services/collision-repairs-in-south-auckland/`
+  - `https://a1autopanelandpaint.co.nz/services/car-paint-in-south-auckland/`
 
 ### Guest Post Targets (4 Posts)
-- **1st Guest Post:** `https://a1autopanelandpaint.co.nz/services/chassis-alignment-in-south-auckland/`
-- **2nd Guest Post:** `https://a1autopanelandpaint.co.nz/services/collision-repairs-in-south-auckland/`
-- **3rd Guest Post:** `https://a1autopanelandpaint.co.nz/services/bumper-repairs-in-south-auckland/`
-- **4th Guest Post:** `https://a1autopanelandpaint.co.nz/services/chassis-alignment-in-south-auckland/`
+- **1st Guest Post:** `https://a1autopanelandpaint.co.nz/services/body-kit-installation-in-south-auckland/`
+- **2nd Guest Post:** `https://a1autopanelandpaint.co.nz/services/chassis-alignment-in-south-auckland/`
+- **3rd Guest Post:** `https://a1autopanelandpaint.co.nz/services/mag-wheel-repairs-in-south-auckland/`
+- **4th Guest Post:** `https://a1autopanelandpaint.co.nz/services/collision-repairs-in-south-auckland/`
 
 ### Article Submission Targets (4 Articles)
-- **1st Article:** `https://a1autopanelandpaint.co.nz/services/rust-repairs-in-south-auckland/`
-- **2nd Article:** `https://a1autopanelandpaint.co.nz/services/car-parts-in-south-auckland/`
-- **3rd Article:** `https://a1autopanelandpaint.co.nz/services/dent-removal-in-south-auckland/`
-- **4th Article:** `https://a1autopanelandpaint.co.nz/services/mag-wheel-repairs-in-south-auckland/`
+- **1st Article:** `https://a1autopanelandpaint.co.nz/services/bumper-repairs-in-south-auckland/`
+- **2nd Article:** `https://a1autopanelandpaint.co.nz/services/dent-removal-in-south-auckland/`
+- **3rd Article:** `https://a1autopanelandpaint.co.nz/services/panel-beaters-in-south-auckland/`
+- **4th Article:** `https://a1autopanelandpaint.co.nz/services/car-paint-in-south-auckland/`
 
 ---
 
