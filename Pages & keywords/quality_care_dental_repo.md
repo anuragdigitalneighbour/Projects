@@ -36,26 +36,26 @@ This document serves as the master data source for the Quality Care Dental proje
   - `https://qualitycaredental.co.nz/services/emergency-dentist-treatment/`
   - `https://qualitycaredental.co.nz/services/paediatric-dentistry/`
 - **2nd Web 2.0:**
-  - `https://qualitycaredental.co.nz/services/dental-implants-in-auckland/`
-  - `https://qualitycaredental.co.nz/services/iv-sedation-dentistry-in-auckland/`
-- **3rd Web 2.0:**
   - `https://qualitycaredental.co.nz/services/teeth-whitening-in-auckland/`
   - `https://qualitycaredental.co.nz/services/tooth-crowns-in-auckland/`
-- **4th Web 2.0:**
-  - `https://qualitycaredental.co.nz/services/tooth-dentures-in-auckland/`
+- **3rd Web 2.0:**
   - `https://qualitycaredental.co.nz/services/tooth-extraction-in-auckland/`
+  - `https://qualitycaredental.co.nz/services/tooth-filling-in-auckland/`
+- **4th Web 2.0:**
+  - `https://qualitycaredental.co.nz/services/tooth-scaling-polishing-in-auckland/`
+  - `https://qualitycaredental.co.nz/services/dental-implants-in-auckland/`
 
 ### Guest Post Targets (4 Posts)
 - **1st Guest Post:** `https://qualitycaredental.co.nz/services/emergency-dentist-treatment/`
-- **2nd Guest Post:** `https://qualitycaredental.co.nz/services/dental-implants-in-auckland/`
-- **3rd Guest Post:** `https://qualitycaredental.co.nz/services/teeth-whitening-in-auckland/`
-- **4th Guest Post:** `https://qualitycaredental.co.nz/services/tooth-dentures-in-auckland/`
+- **2nd Guest Post:** `https://qualitycaredental.co.nz/services/teeth-whitening-in-auckland/`
+- **3rd Guest Post:** `https://qualitycaredental.co.nz/services/tooth-extraction-in-auckland/`
+- **4th Guest Post:** `https://qualitycaredental.co.nz/services/tooth-scaling-polishing-in-auckland/`
 
 ### Article Submission Targets (4 Articles)
 - **1st Article:** `https://qualitycaredental.co.nz/services/paediatric-dentistry/`
-- **2nd Article:** `https://qualitycaredental.co.nz/services/iv-sedation-dentistry-in-auckland/`
-- **3rd Article:** `https://qualitycaredental.co.nz/services/tooth-crowns-in-auckland/`
-- **4th Article:** `https://qualitycaredental.co.nz/services/tooth-extraction-in-auckland/`
+- **2nd Article:** `https://qualitycaredental.co.nz/services/tooth-crowns-in-auckland/`
+- **3rd Article:** `https://qualitycaredental.co.nz/services/tooth-filling-in-auckland/`
+- **4th Article:** `https://qualitycaredental.co.nz/services/dental-implants-in-auckland/`
 
 ---
 
