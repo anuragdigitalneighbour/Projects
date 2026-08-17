@@ -35,19 +35,19 @@ This document serves as the master data source for the Solar Control project. It
 
 ### Web 2.0 Targets (2 Properties)
 - **1st Web 2.0:**
-  - `https://solarcontrol.co.nz/services/residential-window-tinting/`
-  - `https://solarcontrol.co.nz/services/commercial-window-tinting/`
+  - `https://solarcontrol.co.nz/services/anti-glare-window-film/`
+  - `https://solarcontrol.co.nz/services/anti-graffiti-film/`
 - **2nd Web 2.0:**
-  - `https://solarcontrol.co.nz/services/fade-reducing-uv-window-film/`
-  - `https://solarcontrol.co.nz/services/heat-control-window-film/`
+  - `https://solarcontrol.co.nz/services/safety-security-window-film/`
+  - `https://www.solarcontrol.co.nz/services/frosted-opaque-window-films`
 
 ### Guest Post Targets (2 Posts)
-- **1st Guest Post:** `https://solarcontrol.co.nz/services/residential-window-tinting/`
-- **2nd Guest Post:** `https://solarcontrol.co.nz/services/fade-reducing-uv-window-film/`
+- **1st Guest Post:** `https://solarcontrol.co.nz/services/anti-glare-window-film/`
+- **2nd Guest Post:** `https://solarcontrol.co.nz/services/safety-security-window-film/`
 
 ### Article Submission Targets (2 Articles)
-- **1st Article:** `https://solarcontrol.co.nz/services/commercial-window-tinting/`
-- **2nd Article:** `https://solarcontrol.co.nz/services/heat-control-window-film/`
+- **1st Article:** `https://solarcontrol.co.nz/services/anti-graffiti-film/`
+- **2nd Article:** `https://www.solarcontrol.co.nz/services/frosted-opaque-window-films`
 
 ---
 
