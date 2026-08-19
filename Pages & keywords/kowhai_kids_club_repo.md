@@ -1,8 +1,6 @@
 # Project Repository: Kowhai Kids Club
 
-This document serves as the master data source for the Kowhai Kids Club project. It contains all approved target pages, keywords, profile links, and the specific target page assignments for off-page campaigns.
-
-*(Note: This project does not use Business Listings or a GMB Link).*
+This document serves as the master data source for the Kowhai Kids Club project. It contains all approved target pages, keywords, profile links, the GMB link, and the specific target page assignments for off-page campaigns.
 
 ---
 
@@ -23,15 +21,15 @@ This document serves as the master data source for the Kowhai Kids Club project.
 ### Web 2.0 Targets (4 Properties)
 - **1st Web 2.0:**
   - `https://kowhaikidsclub.co.nz/after-school-care/`
-  - `https://kowhaikidsclub.co.nz/holiday-programme/`
-- **2nd Web 2.0:**
   - `https://kowhaikidsclub.co.nz/before-school-care/`
+- **2nd Web 2.0:**
+  - `https://kowhaikidsclub.co.nz/holiday-programme/`
   - `https://kowhaikidsclub.co.nz/oscar-subsidies/`
 - **3rd Web 2.0:**
   - `https://kowhaikidsclub.co.nz/holiday-programme/`
-  - `https://kowhaikidsclub.co.nz/before-school-care/`
-- **4th Web 2.0:**
   - `https://kowhaikidsclub.co.nz/after-school-care/`
+- **4th Web 2.0:**
+  - `https://kowhaikidsclub.co.nz/before-school-care/`
   - `https://kowhaikidsclub.co.nz/oscar-subsidies/`
 
 ### Guest Post Targets (4 Posts)
@@ -48,7 +46,13 @@ This document serves as the master data source for the Kowhai Kids Club project.
 
 ---
 
-## 3. Approved Profile Links
+## 3. Google My Business (GMB) Link
+
+**GMB URL:** [https://www.google.com/maps?cid=3885864657470578622](https://www.google.com/maps?cid=3885864657470578622)
+
+---
+
+## 4. Approved Profile Links
 
 Use these profile URLs as supporting, natural contextual links where appropriate:
 
