@@ -25,19 +25,19 @@ This document serves as the master data source for the AR Auto Tech project. It 
 
 ### Web 2.0 Targets (2 Properties)
 - **1st Web 2.0:**
-  - `https://arautotech.co.nz/services/engine-rebuild`
-  - `https://arautotech.co.nz/services/insurance-repair`
+  - `https://arautotech.co.nz/services/transmission-repairs`
+  - `https://arautotech.co.nz/services/warrant-of-fitness`
 - **2nd Web 2.0:**
-  - `https://arautotech.co.nz/services/suspension-steering-repairs`
-  - `https://arautotech.co.nz/services/brake-service-and-repairs`
+  - `https://arautotech.co.nz/services/ac-repairs-and-service`
+  - `https://arautotech.co.nz/services/engine-rebuild`
 
 ### Guest Post Targets (2 Posts)
-- **1st Guest Post:** `https://arautotech.co.nz/services/engine-rebuild`
-- **2nd Guest Post:** `https://arautotech.co.nz/services/suspension-steering-repairs`
+- **1st Guest Post:** `https://arautotech.co.nz/services/transmission-repairs`
+- **2nd Guest Post:** `https://arautotech.co.nz/services/ac-repairs-and-service`
 
 ### Article Submission Targets (2 Articles)
-- **1st Article:** `https://arautotech.co.nz/services/insurance-repair`
-- **2nd Article:** `https://arautotech.co.nz/services/brake-service-and-repairs`
+- **1st Article:** `https://arautotech.co.nz/services/warrant-of-fitness`
+- **2nd Article:** `https://arautotech.co.nz/services/engine-rebuild`
 
 ---
 
