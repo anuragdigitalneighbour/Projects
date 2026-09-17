@@ -21,13 +21,13 @@ This document serves as the master data source for the Kowhai Kids Club project.
 ### Web 2.0 Targets (4 Properties)
 - **1st Web 2.0:**
   - `https://kowhaikidsclub.co.nz/after-school-care/`
-  - `https://kowhaikidsclub.co.nz/before-school-care/`
+  - `https://kowhaikidsclub.co.nz/oscar-subsidies/`
 - **2nd Web 2.0:**
   - `https://kowhaikidsclub.co.nz/holiday-programme/`
   - `https://kowhaikidsclub.co.nz/oscar-subsidies/`
 - **3rd Web 2.0:**
   - `https://kowhaikidsclub.co.nz/holiday-programme/`
-  - `https://kowhaikidsclub.co.nz/after-school-care/`
+  - `https://kowhaikidsclub.co.nz/before-school-care/`
 - **4th Web 2.0:**
   - `https://kowhaikidsclub.co.nz/before-school-care/`
   - `https://kowhaikidsclub.co.nz/oscar-subsidies/`
