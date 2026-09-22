@@ -29,28 +29,28 @@ This document serves as the master data source for the Digital Neighbour project
 
 ### Web 2.0 Targets (4 Properties)
 - **1st Web 2.0:**
-  - `https://www.digitalneighbour.co.nz/paid-advertisement/paid-social`
-  - `https://www.digitalneighbour.co.nz/paid-advertisement/google-shopping-ads`
-- **2nd Web 2.0:**
-  - `https://www.digitalneighbour.co.nz/seo`
-  - `https://www.digitalneighbour.co.nz/seo/local-seo`
-- **3rd Web 2.0:**
   - `https://www.digitalneighbour.co.nz/seo/wordpress-seo`
   - `https://www.digitalneighbour.co.nz/seo/ecommerce-seo`
+- **2nd Web 2.0:**
+  - `https://www.digitalneighbour.co.nz/paid-advertisement/google-shopping-ads`
+  - `https://www.digitalneighbour.co.nz/paid-advertisement/paid-social`
+- **3rd Web 2.0:**
+  - `https://www.digitalneighbour.co.nz/social-media-marketing`
+  - `https://www.digitalneighbour.co.nz/social-media-marketing/facebook-marketing`
 - **4th Web 2.0:**
-  - `https://www.digitalneighbour.co.nz/paid-advertisement`
+  - `https://www.digitalneighbour.co.nz/paid-advertisement/google-ads`
   - `https://www.digitalneighbour.co.nz/paid-advertisement/google-remarketing`
 
 ### Guest Post Targets (4 Posts)
-- **1st Guest Post:** `https://www.digitalneighbour.co.nz/paid-advertisement/paid-social`
-- **2nd Guest Post:** `https://www.digitalneighbour.co.nz/seo`
-- **3rd Guest Post:** `https://www.digitalneighbour.co.nz/seo/wordpress-seo`
-- **4th Guest Post:** `https://www.digitalneighbour.co.nz/paid-advertisement`
+- **1st Guest Post:** `https://www.digitalneighbour.co.nz/seo/wordpress-seo`
+- **2nd Guest Post:** `https://www.digitalneighbour.co.nz/paid-advertisement/google-shopping-ads`
+- **3rd Guest Post:** `https://www.digitalneighbour.co.nz/social-media-marketing`
+- **4th Guest Post:** `https://www.digitalneighbour.co.nz/paid-advertisement/google-ads`
 
 ### Article Submission Targets (4 Articles)
-- **1st Article:** `https://www.digitalneighbour.co.nz/paid-advertisement/google-shopping-ads`
-- **2nd Article:** `https://www.digitalneighbour.co.nz/seo/local-seo`
-- **3rd Article:** `https://www.digitalneighbour.co.nz/seo/ecommerce-seo`
+- **1st Article:** `https://www.digitalneighbour.co.nz/seo/ecommerce-seo`
+- **2nd Article:** `https://www.digitalneighbour.co.nz/paid-advertisement/paid-social`
+- **3rd Article:** `https://www.digitalneighbour.co.nz/social-media-marketing/facebook-marketing`
 - **4th Article:** `https://www.digitalneighbour.co.nz/paid-advertisement/google-remarketing`
 
 ---
