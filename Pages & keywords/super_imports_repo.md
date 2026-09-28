@@ -32,19 +32,19 @@ This document serves as the master data source for the Super Imports project. It
 
 ### Web 2.0 Targets (2 Properties)
 - **1st Web 2.0:**
-  - `https://superimports.co.nz/car-audio/speakers/`
-  - `https://superimports.co.nz/product-category/car-audio/subwoofers/`
+  - `https://superimports.co.nz/product-category/reverse-camera/`
+  - `https://superimports.co.nz/our-services/car-alarms-installations/`
 - **2nd Web 2.0:**
-  - `https://superimports.co.nz/car-alarms/`
-  - `https://superimports.co.nz/product-category/our-services/vehicle-security/`
+  - `https://superimports.co.nz/car-audio/amplifiers/`
+  - `https://superimports.co.nz/car-audio/enclosures/`
 
 ### Guest Post Targets (2 Posts)
-- **1st Guest Post:** `https://superimports.co.nz/car-audio/speakers/`
-- **2nd Guest Post:** `https://superimports.co.nz/car-alarms/`
+- **1st Guest Post:** `https://superimports.co.nz/product-category/reverse-camera/`
+- **2nd Guest Post:** `https://superimports.co.nz/car-audio/amplifiers/`
 
 ### Article Submission Targets (2 Articles)
-- **1st Article:** `https://superimports.co.nz/product-category/car-audio/subwoofers/`
-- **2nd Article:** `https://superimports.co.nz/product-category/our-services/vehicle-security/`
+- **1st Article:** `https://superimports.co.nz/our-services/car-alarms-installations/`
+- **2nd Article:** `https://superimports.co.nz/car-audio/enclosures/`
 
 ---
 
