@@ -1,0 +1,1 @@
+This folder contains context files for various projects.
