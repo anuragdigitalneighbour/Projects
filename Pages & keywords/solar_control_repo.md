@@ -35,19 +35,19 @@ This document serves as the master data source for the Solar Control project. It
 
 ### Web 2.0 Targets (2 Properties)
 - **1st Web 2.0:**
-  - `https://solarcontrol.co.nz/services/fade-reducing-uv-window-film/`
-  - `https://solarcontrol.co.nz/services/heat-control-window-film/`
+  - `https://www.solarcontrol.co.nz/services/frosted-opaque-window-films`
+  - `https://solarcontrol.co.nz/services/commercial-window-tinting/`
 - **2nd Web 2.0:**
-  - `https://solarcontrol.co.nz/services/privacy-window-film/`
-  - `https://solarcontrol.co.nz/services/safety-security-window-film/`
+  - `https://solarcontrol.co.nz/locations/christchurch/`
+  - `https://solarcontrol.co.nz/locations/rolleston/`
 
 ### Guest Post Targets (2 Posts)
-- **1st Guest Post:** `https://solarcontrol.co.nz/services/fade-reducing-uv-window-film/`
-- **2nd Guest Post:** `https://solarcontrol.co.nz/services/privacy-window-film/`
+- **1st Guest Post:** `https://www.solarcontrol.co.nz/services/frosted-opaque-window-films`
+- **2nd Guest Post:** `https://solarcontrol.co.nz/locations/christchurch/`
 
 ### Article Submission Targets (2 Articles)
-- **1st Article:** `https://solarcontrol.co.nz/services/heat-control-window-film/`
-- **2nd Article:** `https://solarcontrol.co.nz/services/safety-security-window-film/`
+- **1st Article:** `https://solarcontrol.co.nz/services/commercial-window-tinting/`
+- **2nd Article:** `https://solarcontrol.co.nz/locations/rolleston/`
 
 ---
 
