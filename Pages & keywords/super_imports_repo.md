@@ -32,19 +32,19 @@ This document serves as the master data source for the Super Imports project. It
 
 ### Web 2.0 Targets (2 Properties)
 - **1st Web 2.0:**
-  - `https://superimports.co.nz/product-category/reverse-camera/`
-  - `https://superimports.co.nz/our-services/car-alarms-installations/`
+  - `https://superimports.co.nz/car-audio/subwoofers/`
+  - `https://superimports.co.nz/car-audio/speakers/`
 - **2nd Web 2.0:**
-  - `https://superimports.co.nz/car-audio/amplifiers/`
-  - `https://superimports.co.nz/car-audio/enclosures/`
+  - `https://superimports.co.nz/car-audio/head-units/`
+  - `https://superimports.co.nz/car-audio/`
 
 ### Guest Post Targets (2 Posts)
-- **1st Guest Post:** `https://superimports.co.nz/product-category/reverse-camera/`
-- **2nd Guest Post:** `https://superimports.co.nz/car-audio/amplifiers/`
+- **1st Guest Post:** `https://superimports.co.nz/car-audio/subwoofers/`
+- **2nd Guest Post:** `https://superimports.co.nz/car-audio/head-units/`
 
 ### Article Submission Targets (2 Articles)
-- **1st Article:** `https://superimports.co.nz/our-services/car-alarms-installations/`
-- **2nd Article:** `https://superimports.co.nz/car-audio/enclosures/`
+- **1st Article:** `https://superimports.co.nz/car-audio/speakers/`
+- **2nd Article:** `https://superimports.co.nz/car-audio/`
 
 ---
 
