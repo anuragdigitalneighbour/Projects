@@ -59,19 +59,19 @@ This document serves as the master data source for the Bed Studio project. It co
 
 ### Web 2.0 Targets (2 Properties)
 - **1st Web 2.0:**
-  - `https://www.bedstudio.co.nz/collections/mattresses`
-  - `https://www.bedstudio.co.nz/collections/mattress-and-bed-bases-set`
+  - `https://www.bedstudio.co.nz/collections/single`
+  - `https://www.bedstudio.co.nz/collections/long-single`
 - **2nd Web 2.0:**
-  - `https://www.bedstudio.co.nz/collections/bed-bases`
-  - `https://www.bedstudio.co.nz/collections/adjustable-beds`
+  - `https://www.bedstudio.co.nz/collections/headboards`
+  - `https://www.bedstudio.co.nz/collections/standard-bed-bases`
 
 ### Guest Post Targets (2 Posts)
-- **1st Guest Post:** `https://www.bedstudio.co.nz/collections/mattresses`
-- **2nd Guest Post:** `https://www.bedstudio.co.nz/collections/bed-bases`
+- **1st Guest Post:** `https://www.bedstudio.co.nz/collections/single`
+- **2nd Guest Post:** `https://www.bedstudio.co.nz/collections/headboards`
 
 ### Article Submission Targets (2 Articles)
-- **1st Article:** `https://www.bedstudio.co.nz/collections/mattress-and-bed-bases-set`
-- **2nd Article:** `https://www.bedstudio.co.nz/collections/adjustable-beds`
+- **1st Article:** `https://www.bedstudio.co.nz/collections/long-single`
+- **2nd Article:** `https://www.bedstudio.co.nz/collections/standard-bed-bases`
 
 ---
 
