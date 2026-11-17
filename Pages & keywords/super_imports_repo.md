@@ -32,19 +32,19 @@ This document serves as the master data source for the Super Imports project. It
 
 ### Web 2.0 Targets (2 Properties)
 - **1st Web 2.0:**
-  - `https://superimports.co.nz/car-audio/subwoofers/`
-  - `https://superimports.co.nz/car-audio/speakers/`
+  - `https://superimports.co.nz/car-audio/enclosures/`
+  - `https://superimports.co.nz/car-audio/amplifiers/`
 - **2nd Web 2.0:**
-  - `https://superimports.co.nz/car-audio/head-units/`
-  - `https://superimports.co.nz/car-audio/`
+  - `https://superimports.co.nz/accessories/car-auto-accessories/`
+  - `https://superimports.co.nz/our-services/vehicle-security/`
 
 ### Guest Post Targets (2 Posts)
-- **1st Guest Post:** `https://superimports.co.nz/car-audio/subwoofers/`
-- **2nd Guest Post:** `https://superimports.co.nz/car-audio/head-units/`
+- **1st Guest Post:** `https://superimports.co.nz/car-audio/enclosures/`
+- **2nd Guest Post:** `https://superimports.co.nz/accessories/car-auto-accessories/`
 
 ### Article Submission Targets (2 Articles)
-- **1st Article:** `https://superimports.co.nz/car-audio/speakers/`
-- **2nd Article:** `https://superimports.co.nz/car-audio/`
+- **1st Article:** `https://superimports.co.nz/car-audio/amplifiers/`
+- **2nd Article:** `https://superimports.co.nz/our-services/vehicle-security/`
 
 ---
 
