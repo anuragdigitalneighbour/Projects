@@ -8,20 +8,31 @@ This document serves as the master data source for the Digital Neighbour project
 
 | Target URL | Approved Keywords |
 | :--- | :--- |
-| `https://www.digitalneighbour.co.nz/` | Marketing Agency NZ, Digital Marketing Nz, Digital Marketing Services NZ, Seo Agency Nz, Digital Marketing Company Nz |
-| `https://www.digitalneighbour.co.nz/seo` | Search Engine Optimisation, Seo Services in NZ, Seo Company in NZ, Seo Consultant in NZ |
-| `https://www.digitalneighbour.co.nz/paid-advertisement` | Paid Advertising Services in NZ, Paid Advertising Company in NZ, Paid Advertising Agency in NZ |
-| `https://www.digitalneighbour.co.nz/seo/local-seo` | Local Seo Services in NZ, Local Seo Company in NZ, Google Business Profile Optimisation Services |
-| `https://www.digitalneighbour.co.nz/paid-advertisement/google-ads` | Google Ads Agency in NZ, Google Ads Company in NZ, Google Ads Services in NZ |
-| `https://www.digitalneighbour.co.nz/paid-advertisement/google-remarketing` | Google Remarketing Services in NZ, Google Remarketing Agency in NZ, Google Remarketing Company in NZ |
-| `https://www.digitalneighbour.co.nz/social-media-marketing` | Social Media Marketing Services in NZ, Social Media Marketing New Zealand in NZ, Social Media Marketing in NZ |
-| `https://www.digitalneighbour.co.nz/content-marketing` | Content Marketing Services in NZ, Content Marketing Company in NZ, Creative Marketing Company in NZ |
-| `https://www.digitalneighbour.co.nz/social-media-marketing/facebook-marketing` | Facebook Marketing Services in NZ, Facebook Marketing Agency in NZ, Facebook Marketing Company in NZ |
-| `https://www.digitalneighbour.co.nz/seo/ai-seo` | Ai Seo Company NZ, Ai Seo Agency, Ai Seo Services |
-| `https://www.digitalneighbour.co.nz/seo/wordpress-seo` | Wordpress Seo Services NZ, Wordpress Seo Agency, Wordpress Seo Company |
-| `https://www.digitalneighbour.co.nz/seo/ecommerce-seo` | E Commerce Seo Services NZ, E Commerce Seo Company, E Commerce Seo Agency |
-| `https://www.digitalneighbour.co.nz/paid-advertisement/google-shopping-ads` | Google Shopping Ads Services NZ, Google Shopping Ads Agency, Google Shopping Ads Company |
-| `https://www.digitalneighbour.co.nz/paid-advertisement/paid-social` | Paid Social Services NZ, Paid Social Ads Agency, Paid Social Agency |
+| `https://www.digitalneighbour.nz/` | New Zealand SEO agency, SEO Services in New Zealand, SEO company |
+| `https://www.digitalneighbour.nz/seo/ai-seo/` | AI SEO Services, AI SEO agency, Ai Seo Services in New Zealand |
+| `https://www.digitalneighbour.nz/seo/ai-seo/auckland/` | AI SEO Auckland, AI SEO in Auckland, AI SEO Services in Auckland |
+| `https://www.digitalneighbour.nz/seo/ai-seo/christchurch/` | AI SEO Christchurch, AI SEO Services Christchurch, Christchurch AI SEO agency |
+| `https://www.digitalneighbour.nz/seo/auckland/` | SEO Auckland, SEO Services, SEO agency |
+| `https://www.digitalneighbour.nz/seo/christchurch/` | SEO Christchurch, Christchurch SEO, SEO company in Christchurch |
+| `https://www.digitalneighbour.nz/seo/ecommerce/` | Ecommerce SEO, Ecommerce SEO Services, Ecommerce SEO agency |
+| `https://www.digitalneighbour.nz/seo/packages/` | SEO Packages, SEO Pricing, SEO Cost |
+| `https://www.digitalneighbour.nz/digital-marketing/` | Digital Marketing Services, Digital Marketing agency, Digital Marketing Services NZ |
+| `https://www.digitalneighbour.nz/digital-marketing/auckland/` | Digital Marketing Auckland, Digital Marketing Services for Auckland businesses, Digital Marketing agency for Auckland businesses |
+| `https://www.digitalneighbour.nz/digital-marketing/christchurch/` | Digital Marketing Christchurch, Digital Marketing Services for Christchurch businesses, Digital Marketing agency for Christchurch businesses |
+| `https://www.digitalneighbour.nz/google-ads/` | Google Ads Management, Google Ads agency, Google Ads Management NZ |
+| `https://www.digitalneighbour.nz/google-ads/auckland/` | Google Ads Auckland, Google Ads Management in Auckland, Google Ads agency Auckland |
+| `https://www.digitalneighbour.nz/google-ads/christchurch/` | Google Ads Christchurch, Google Ads Management in Christchurch, Google Ads agency for Christchurch businesses |
+| `https://www.digitalneighbour.nz/meta-ads/` | Meta Ads Management, Facebook and Instagram Ads, Meta Ads agency |
+| `https://www.digitalneighbour.nz/microsoft-ads/` | Microsoft Advertising Management, Bing Ads Management, Microsoft Ads agency |
+| `https://www.digitalneighbour.nz/website-design/` | Website Design in New Zealand, Web Design agency, Website Design NZ |
+| `https://www.digitalneighbour.nz/website-design/auckland/` | Website Design Auckland, Website Design Services, Auckland Web Design |
+| `https://www.digitalneighbour.nz/website-design/christchurch/` | Website Design Christchurch, Web Design Christchurch, Christchurch Web Design |
+| `https://www.digitalneighbour.nz/website-design/custom/` | Custom Website Development, Custom Web Development Services, Website Development agency |
+| `https://www.digitalneighbour.nz/website-design/ecommerce/` | Ecommerce Website Design, Ecommerce Website Design Services, Ecommerce Web Design agency |
+| `https://www.digitalneighbour.nz/website-design/hosting/` | Managed Website Hosting, Website Maintenance, Website Care Plans |
+| `https://www.digitalneighbour.nz/website-design/pricing/` | Website Design Prices, Website Design Cost, Website Packages |
+| `https://www.digitalneighbour.nz/website-design/shopify/` | Shopify Website Design, Shopify Website Design Services, Shopify Web Design agency |
+| `https://www.digitalneighbour.nz/website-design/wordpress/` | WordPress Web Design, WordPress Website Design Services, WordPress Web Design agency |
 
 ---
 
@@ -65,27 +76,32 @@ This document serves as the master data source for the Digital Neighbour project
 
 Use these profile URLs as supporting, natural contextual links where appropriate:
 
-- https://peatix.com/user/29232306/view
-- https://findpenguins.com/1onli4s5j8pap
-- https://www.TwosApp.com/@digitalneighbour18%40gmail.com
-- https://wallhaven.cc/user/digitalneighbour
-- https://www.rappad.co/users/digitalneighbour
-- https://gesoten.com/profile/detail/12661059
-- https://log.concept2.com/profile/2884578
-- https://www.finnishwomenorg.com/digitalneighbour
-- https://www.danishwomenorg.com/digitalneighbour
-- https://www.domestika.org/en/digitalneighbour18
-- https://daddycow.com/users/view/41430#
-- https://mewe.com/digital_neighbou/posts
-- http://shtfsocial.com/digitalneighbour
-- https://digitalneighbou.livejournal.com/profile/
-- https://forge.chapril.org/digitalneighbour
-- https://network.musicdiffusion.com/digitalneighbour
-- https://thewion.com/digitalneighbour
-- https://yruz.one/digitalneighbour
-- https://producerbox.com/users/digitalneighbour
-- https://www.bib.az/digitalneighbour
-- https://www.pinlap.com/digitalneighbour
+- https://pin.it/5dGa8A2zB
+- https://on.soundcloud.com/iDVUgS4nYdCMGzRqeo
+- https://www.twitch.tv/digitalneighbour1/about
+- https://flipboard.com/profile
+- https://500px.com/p/digitalneighbour18
+- https://www.behance.net/digitalneighbo1
+- https://www.designspiration.com/digitalneighbour18/
+- https://gravatar.com/digitalneighbour18
+- https://wakelet.com/@DigitalNeighbour20590
+- https://audiomack.com/digitalneighbour18
+- https://unsplash.com/@digitalneighbour18
+- https://www.intensedebate.com/people/digitalneighbou
+- https://knowyourmeme.com/users/digital-neighbour--2
+- https://www.quora.com/profile/Digital-Neighbour
+- https://www.change.org/u/me?success=update_profile&lang=en-IN&country_code=NZ
+- https://medium.com/@digitalneighbour18
+- https://replit.com/@digitalneighbou
+- https://justpaste.it/u/digitalneighbo
+- https://www.scribd.com/user/1036223717/digitalneighbour18
+- https://ext-7033687.livejournal.com/
+- https://www.1001fonts.com/users/digital-neighbour/
+- https://baphomet-lounge.mn.co/members/42774799
+- https://zekond.com/digitalneighbour
+- https://www.steenssyrup.com/profile/digitalneighbour1868352/profile
+- https://www.strategicsolutionsconsulting.com/profile/digitalneighbour183379/profile
+- https://thevendry.com/v/27355289
 
 ---
 
