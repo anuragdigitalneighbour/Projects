@@ -38,31 +38,21 @@ This document serves as the master data source for the Digital Neighbour project
 
 ## 2. Campaign Target Assignments
 
-### Web 2.0 Targets (4 Properties)
+### Web 2.0 Targets (2 Properties)
 - **1st Web 2.0:**
-  - `https://www.digitalneighbour.co.nz/seo/wordpress-seo`
-  - `https://www.digitalneighbour.co.nz/seo/ecommerce-seo`
+  - `https://www.digitalneighbour.nz/seo/ai-seo/`
+  - `https://www.digitalneighbour.nz/seo/ecommerce/`
 - **2nd Web 2.0:**
-  - `https://www.digitalneighbour.co.nz/paid-advertisement/google-shopping-ads`
-  - `https://www.digitalneighbour.co.nz/paid-advertisement/paid-social`
-- **3rd Web 2.0:**
-  - `https://www.digitalneighbour.co.nz/social-media-marketing`
-  - `https://www.digitalneighbour.co.nz/social-media-marketing/facebook-marketing`
-- **4th Web 2.0:**
-  - `https://www.digitalneighbour.co.nz/paid-advertisement/google-ads`
-  - `https://www.digitalneighbour.co.nz/paid-advertisement/google-remarketing`
+  - `https://www.digitalneighbour.nz/seo/ai-seo/auckland/`
+  - `https://www.digitalneighbour.nz/seo/ai-seo/christchurch/`
 
-### Guest Post Targets (4 Posts)
-- **1st Guest Post:** `https://www.digitalneighbour.co.nz/seo/wordpress-seo`
-- **2nd Guest Post:** `https://www.digitalneighbour.co.nz/paid-advertisement/google-shopping-ads`
-- **3rd Guest Post:** `https://www.digitalneighbour.co.nz/social-media-marketing`
-- **4th Guest Post:** `https://www.digitalneighbour.co.nz/paid-advertisement/google-ads`
+### Guest Post Targets (2 Posts)
+- **1st Guest Post:** `https://www.digitalneighbour.nz/seo/ai-seo/`
+- **2nd Guest Post:** `https://www.digitalneighbour.nz/seo/ai-seo/auckland/`
 
-### Article Submission Targets (4 Articles)
-- **1st Article:** `https://www.digitalneighbour.co.nz/seo/ecommerce-seo`
-- **2nd Article:** `https://www.digitalneighbour.co.nz/paid-advertisement/paid-social`
-- **3rd Article:** `https://www.digitalneighbour.co.nz/social-media-marketing/facebook-marketing`
-- **4th Article:** `https://www.digitalneighbour.co.nz/paid-advertisement/google-remarketing`
+### Article Submission Targets (2 Articles)
+- **1st Article:** `https://www.digitalneighbour.nz/seo/ecommerce/`
+- **2nd Article:** `https://www.digitalneighbour.nz/seo/ai-seo/christchurch/`
 
 ---
 
