@@ -29,28 +29,28 @@ This document serves as the master data source for the Little Climbers project. 
 
 ### Web 2.0 Targets (4 Properties)
 - **1st Web 2.0:**
+  - `https://littleclimbers.co.nz/childcare-centre-in-otara/`
   - `https://littleclimbers.co.nz/childcare-centre-in-mangere/`
-  - `https://littleclimbers.co.nz/home-based-childcare-in-auckland/`
 - **2nd Web 2.0:**
+  - `https://littleclimbers.co.nz/childcare-centre-in-east-tamaki/`
   - `https://littleclimbers.co.nz/childcare-centre-in-pukekohe/`
-  - `https://littleclimbers.co.nz/childcare-centre-in-clendon-park/`
 - **3rd Web 2.0:**
-  - `https://littleclimbers.co.nz/kindergarten-in-auckland/`
-  - `https://littleclimbers.co.nz/kindergarten-in-east-tamaki/`
+  - `https://littleclimbers.co.nz/childcare-centre-in-clendon-park/`
+  - `https://littleclimbers.co.nz/home-based-childcare-in-auckland/`
 - **4th Web 2.0:**
-  - `https://littleclimbers.co.nz/home-based-kindergarten-in-auckland/`
+  - `https://littleclimbers.co.nz/kindergarten-in-otara/`
   - `https://littleclimbers.co.nz/kindergarten-in-pukekohe/`
 
 ### Guest Post Targets (4 Posts)
-- **1st Guest Post:** `https://littleclimbers.co.nz/childcare-centre-in-mangere/`
-- **2nd Guest Post:** `https://littleclimbers.co.nz/childcare-centre-in-pukekohe/`
-- **3rd Guest Post:** `https://littleclimbers.co.nz/kindergarten-in-auckland/`
-- **4th Guest Post:** `https://littleclimbers.co.nz/home-based-kindergarten-in-auckland/`
+- **1st Guest Post:** `https://littleclimbers.co.nz/childcare-centre-in-otara/`
+- **2nd Guest Post:** `https://littleclimbers.co.nz/childcare-centre-in-east-tamaki/`
+- **3rd Guest Post:** `https://littleclimbers.co.nz/childcare-centre-in-clendon-park/`
+- **4th Guest Post:** `https://littleclimbers.co.nz/kindergarten-in-otara/`
 
 ### Article Submission Targets (4 Articles)
-- **1st Article:** `https://littleclimbers.co.nz/home-based-childcare-in-auckland/`
-- **2nd Article:** `https://littleclimbers.co.nz/childcare-centre-in-clendon-park/`
-- **3rd Article:** `https://littleclimbers.co.nz/kindergarten-in-east-tamaki/`
+- **1st Article:** `https://littleclimbers.co.nz/childcare-centre-in-mangere/`
+- **2nd Article:** `https://littleclimbers.co.nz/childcare-centre-in-pukekohe/`
+- **3rd Article:** `https://littleclimbers.co.nz/home-based-childcare-in-auckland/`
 - **4th Article:** `https://littleclimbers.co.nz/kindergarten-in-pukekohe/`
 
 ---
