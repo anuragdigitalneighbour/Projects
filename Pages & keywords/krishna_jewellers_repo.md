@@ -62,7 +62,7 @@ This document serves as the master data source for the **Krishna Jewellers** pro
 
 ## 3. Google My Business (GMB) Link
 
-**GMB URL:** [https://www.google.com/maps?cid=11127602798572073498](https://www.google.com/maps?cid=11127602798572073498)
+**GMB URL:** [https://www.google.com/maps?cid=5629377083249921641](https://www.google.com/maps?cid=5629377083249921641)
 
 ---
 
